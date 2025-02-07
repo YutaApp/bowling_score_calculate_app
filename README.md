@@ -1,1 +1,1 @@
-# bowling_score_calculate_app
+# ボウリングのスコアを計算、記録するアプリ
